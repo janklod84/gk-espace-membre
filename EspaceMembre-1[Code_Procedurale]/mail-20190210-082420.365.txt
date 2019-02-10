@@ -1,0 +1,6 @@
+To: jeanyao@ymail.com
+Subject: Confirmation de votre compte
+
+Afin de valider votre compte merci de cliquer sur ce lien
+
+http://web.loc/confirm.php?id=1&token=u0KuoW4LtH9aas0bDVksPZWpAkG1OOSTNL1AyKPfAG8CJsP03NehNY0gG8nW
